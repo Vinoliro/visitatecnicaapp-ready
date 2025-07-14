@@ -1,0 +1,20 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# C extensions
+*.pyd
+
+# Buildozer
+.buildozer/
+bin/
+*.apk
+*.spec
+
+# macOS
+.DS_Store
+
+# Logs and temp
+*.log
+*.tmp
